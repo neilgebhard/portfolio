@@ -289,7 +289,7 @@ a {
 }
 
 a:hover {
-  color: #e27689;
+  color: #4f7d7c;
   border-bottom-color: rgba(255, 255, 255, 0);
 }
 
@@ -2112,6 +2112,7 @@ button:active,
 
 .item header h3 {
   font-size: 1.2em;
+  font-weight: 500;
 }
 
 /* Icons */
@@ -2288,7 +2289,7 @@ button:active,
 }
 
 #nav ul li a.active span:before {
-  color: #e27689;
+  color: #8ebebc;
 }
 
 /* Footer */
